@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
                                                             <h2 align="center">Hi 👋, I'm Ganesh More</h2>
+                       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh358&" alt="ganesh358" />
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh358&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh358" /> </p>
