@@ -16,9 +16,9 @@ Here are some ideas to get you started:
  <h2 align="center"> Hi 👋, I'm Ganesh More</h2>               
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
- 
-![Roadmap-to-become-a-successful-web-developer (1)](https://user-images.githubusercontent.com/101578846/191076657-4bcdb2c0-0cb8-4794-b720-3c87e7a536f7.png)
-
+ <p align="center">
+ <img  width="700px" height="300px"  src="https://user-images.githubusercontent.com/101578846/191076657-4bcdb2c0-0cb8-4794-b720-3c87e7a536f7.png" alt="ganesh358"/>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh358&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh358" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesh358" alt="ganesh358" /></a> </p>
