@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                                                             <h1 align="center">Hi 👋, I'm Ganesh More</h1>
+                                                            <h2 align="center">Hi 👋, I'm Ganesh More</h2>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh358&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh358" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesh358" alt="ganesh358" /></a> </p>
 
-- 🌱 I’m currently learning **Redux,react**
+- 🌱 I’m currently learning **Redux, Jest, Cypress**
 
-- 👯 I’m looking to collaborate on **Mern Projects**
+- 👯 I’m looking to collaborate on **MERN Projects**
 
 - 👨‍💻 All of my projects are available at [https://ganesh358.github.io/](https://ganesh358.github.io/)
 
